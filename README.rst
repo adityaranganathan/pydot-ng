@@ -9,6 +9,12 @@ This code is distributed under the MIT license.
 .. image:: https://travis-ci.org/pydot/pydot-ng.svg?branch=master
     :target: https://travis-ci.org/pydot/pydot-ng
 
+Not maintained
+==============
+
+This library is not maintained at this moment.
+You can look at https://github.com/erocarrera/pydot
+
 
 Requirements:
 =============
